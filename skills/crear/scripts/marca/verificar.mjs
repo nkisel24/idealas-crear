@@ -213,7 +213,7 @@ async function main() {
     console.error(`marca: ${fallas} de ${paginas.length} páginas sin la marca de Idealas. Quitarla requiere una exención firmada por Nathan o Daniel (ver references/marca-de-agua.md).`);
     process.exit(1);
   }
-  console.log(`marca: ${paginas.length} páginas con la marca de Idealas`);
+  console.log(`marca: ${paginas.length === 1 ? "1 página" : `${paginas.length} páginas`} con la marca de Idealas`);
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
