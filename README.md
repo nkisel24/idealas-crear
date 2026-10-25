@@ -10,6 +10,38 @@ retomarlo otro día o en otra máquina.
 
 ## Instalarlo (una vez por máquina)
 
+### Con el instalador (recomendado)
+
+Necesitas Node.js 24, Git, la CLI de GitHub (`gh`) con acceso a este repo y
+Claude Code. Baja el instalador del último release:
+
+```bash
+gh release download instalador-1.0.0 --repo nkisel24/idealas-crear --dir instalador-idealas
+```
+
+Y ábrelo con doble clic: `Instalar-Idealas.cmd` en Windows,
+`Instalar-Idealas.command` en macOS (si macOS no lo abre, clic derecho →
+Abrir). O desde la terminal:
+
+```bash
+node instalador-idealas/instalar.mjs
+```
+
+Revisa todo, te ayuda a iniciar sesión en GitHub si hace falta, agrega el
+marketplace, instala o actualiza el plugin, corre la revisión de arranque y,
+si quieres, deja puesta tu llave de 21st (se escribe sin eco y nunca se
+imprime). Otras formas de correrlo:
+
+| Opción | Qué hace |
+|---|---|
+| `--revisar` | Sólo revisa la máquina; no instala ni cambia nada |
+| `--desinstalar` | Quita el plugin y su marketplace (pregunta antes) |
+| `--si` | No pregunta nada (salta la llave de 21st) |
+| `--tema claro` | Colores para terminal de fondo claro |
+| `--sin-color`, `--sin-animacion` | Para terminales sencillas o logs |
+
+### A mano
+
 El repo es privado: tu `git` tiene que poder clonarlo con tu sesión de GitHub.
 
 ```bash

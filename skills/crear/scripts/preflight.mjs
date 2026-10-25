@@ -43,9 +43,18 @@ export const MCP_USUARIO = {
   },
 };
 
-/** Ejecutor real. Sin shell: claude, git, gh y ssh-keygen son ejecutables. */
+/**
+ * Ejecutor real. Sin shell: claude, git, gh y ssh-keygen son ejecutables. La
+ * excepción es Windows con Claude Code instalado por npm (`claude.cmd`, que no
+ * se lanza sin shell): ahí se reintenta una vez por cmd.exe, con cada
+ * argumento entre comillas (son constantes de este script, no texto libre).
+ */
 export function correrReal(cmd, args, { timeout = 120_000 } = {}) {
-  const r = spawnSync(cmd, args, { encoding: "utf8", timeout, windowsHide: true });
+  let r = spawnSync(cmd, args, { encoding: "utf8", timeout, windowsHide: true });
+  if (r.error?.code === "ENOENT" && process.platform === "win32" && cmd === "claude") {
+    const linea = [cmd, ...args].map((a) => (/^[\w@./:=-]+$/.test(a) ? a : `"${a.replace(/"/g, '\\"')}"`)).join(" ");
+    r = spawnSync(linea, { encoding: "utf8", timeout, windowsHide: true, shell: true });
+  }
   return {
     ok: r.status === 0,
     stdout: r.stdout ?? "",

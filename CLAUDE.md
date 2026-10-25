@@ -23,3 +23,8 @@ Commits).
 - **Versionado:** cada cambio que deba llegar a las máquinas del equipo sube
   `version` en `.claude-plugin/plugin.json`; la revisión de arranque compara
   contra esa versión para actualizar.
+- **El instalador** (`instalador/`) se publica como release aparte
+  (`instalador-X.Y.Z`, con `instalar.mjs` y los dos lanzadores como adjuntos).
+  Si cambias el instalador, sube su número, crea el release nuevo y actualiza
+  el comando del README. Sigue siendo un solo archivo sin dependencias: se
+  baja suelto.
