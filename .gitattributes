@@ -1,5 +1,7 @@
 # Lo nuestro, en LF en todas las máquinas.
 * text=auto eol=lf
+# Salvo los lanzadores de cmd.exe, que se comportan mejor con CRLF.
+*.cmd text eol=crlf
 # Lo copiado de terceros, byte por byte: sus huellas están en vendor/vendor.lock.json
 # y un fin de línea reescrito las rompería entre Windows y Linux.
 skills/** -text

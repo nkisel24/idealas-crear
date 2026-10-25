@@ -1,6 +1,6 @@
 {
   "name": "idealas",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "El motor de creación de Idealas: /idealas:crear lleva una idea de cero a publicada, fase por fase, con un plan aprobado en cada una.",
   "author": {
     "name": "Idealas",
