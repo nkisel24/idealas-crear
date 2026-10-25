@@ -1,0 +1,5 @@
+# Quién puede autorizar que un proyecto quite la marca de agua de Idealas.
+# Formato de ssh-keygen (ALLOWED SIGNERS): <principal> namespaces="idealas-sin-marca" <llave pública>
+# Sólo Nathan (nkisel24) y Daniel (daarid). Vacía = nadie puede quitarla.
+# NO se edita a mano: la escribe `node scripts/firmantes.mjs` desde las llaves
+# de firma que cada quien publica en GitHub, y entra por PR que mergea Nathan.

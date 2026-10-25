@@ -1,0 +1,26 @@
+name: CI
+
+# Corre en GitHub (ubuntu-latest), no en la VM de Idealas: este repo no
+# despliega nada y no necesita los runners de producción.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  pruebas:
+    name: pruebas + skills auditadas
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+      - name: Las skills copiadas son las auditadas
+        run: node scripts/vendor.mjs verificar
+      - name: Pruebas
+        run: node --test "tests/*.test.mjs"

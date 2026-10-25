@@ -1,0 +1,1012 @@
+{
+  "version": 1,
+  "fuentes": [
+    {
+      "repo": "emilkowalski/skill",
+      "commit": "2d228630ba1446365f614a108cb8252f1feda202",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "animate": {
+          "origen": "skills/animate",
+          "archivos": {
+            "RECIPES.md": "21ff63d84391db8d96ecdf9170095f55a42c836ccc36fd3269c4772bab031ba2",
+            "SKILL.md": "b8ede161270458e6ae2e45e8a1985373515d4c63de5568ddb0f9012d7634356c"
+          },
+          "parches": []
+        },
+        "animate-expo": {
+          "origen": "skills/animate-expo",
+          "archivos": {
+            "RECIPES.md": "1193cb71334da2e2341778dd92bec9ac79d989cb07fd55d661f324ed5871e718",
+            "SKILL.md": "9a01a91701e6563c67677dde6b66ab30f066a5341d42c21a90ba51d99679274a"
+          },
+          "parches": []
+        },
+        "animation-performance": {
+          "origen": "skills/animation-performance",
+          "archivos": {
+            "SKILL.md": "ceb9dd3fe912615830f725a0120ccf8d012d15a6218001a5cd6c15d38e39a957"
+          },
+          "parches": []
+        },
+        "animation-vocabulary": {
+          "origen": "skills/animation-vocabulary",
+          "archivos": {
+            "SKILL.md": "40d2b27adfdfeb0570a9f20e7d0255109d9233c50603878bcd0dcd04c923fd94"
+          },
+          "parches": []
+        },
+        "apple-design": {
+          "origen": "skills/apple-design",
+          "archivos": {
+            "SKILL.md": "77bb63b7043bb93aca2ff4ab040c249484eef35682bb6ff7163433c31d30adc7"
+          },
+          "parches": []
+        },
+        "ask-sonner": {
+          "origen": "skills/ask-sonner",
+          "archivos": {
+            "API.md": "4bb06f482c5757529e3d7a672a30fbeed42d24919a63e2571384a9ce1549aa7f",
+            "SKILL.md": "39f3ee185b3aa2cf70a689052ff078953ce7ba5915ed7a9391d232e9d4dcf57f"
+          },
+          "parches": []
+        },
+        "break-ui": {
+          "origen": "skills/break-ui",
+          "archivos": {
+            "CATALOG.md": "7358efcc6bb48e35187be1c064cf60022dcb18c72c18fab58b606dfc5f421f15",
+            "SKILL.md": "e7eec1d70ac56a04255e9c0dbe98084ea3d544cc04aaad34f32c95d6fa9dff5e"
+          },
+          "parches": []
+        },
+        "emil-design-eng": {
+          "origen": "skills/emil-design-eng",
+          "archivos": {
+            "SKILL.md": "ffbe68e6007fb42cb8149f089b400a1ca007d59ba23e8948e2be4476f3175939"
+          },
+          "parches": []
+        },
+        "find-animation-opportunities": {
+          "origen": "skills/find-animation-opportunities",
+          "archivos": {
+            "SKILL.md": "d52a377819b84a71930f0c822cfe2849f40301605a2d5c7eccbfa3b257700df2"
+          },
+          "parches": []
+        },
+        "improve-animations": {
+          "origen": "skills/improve-animations",
+          "archivos": {
+            "AUDIT.md": "551c8473e20e5f4774680bc24d45e1c68e50992582720905c6b077756b7b5a55",
+            "PLAN-TEMPLATE.md": "0a08ac8e23fd2082d7ffb86aeed7b789de77328c3cf874b16f1a755f2ef0a6ad",
+            "SKILL.md": "73962447464433476343e2c12cd08ab39cc99a9e5f3c118c5fb54ed897574ef6"
+          },
+          "parches": []
+        },
+        "mobile-native": {
+          "origen": "skills/mobile-native",
+          "archivos": {
+            "SKILL.md": "888b7651d66d66dbac4e72b7c554638eb19bd971d686d6cbdf030a5ef3788f55"
+          },
+          "parches": []
+        },
+        "pick-ui-library": {
+          "origen": "skills/pick-ui-library",
+          "archivos": {
+            "SKILL.md": "675fdce308683256ed617351a9b74d23457a5fbd0a562d9831b9c764b8c5e682"
+          },
+          "parches": []
+        },
+        "prototype": {
+          "origen": "skills/prototype",
+          "archivos": {
+            "PICKER.md": "31a55eec94715cc79942e91e172e539e3031dcd5e2e5ee7c1446cf2caee960a6",
+            "SKILL.md": "bba39c955eb1871c5a02733976ceec5d0324198e0812e667604756489c89f7b9"
+          },
+          "parches": []
+        },
+        "review-animations": {
+          "origen": "skills/review-animations",
+          "archivos": {
+            "SKILL.md": "6ff590d29e436766135aa3d137be1fac2a867165c7257fc315b189361f1873af",
+            "STANDARDS.md": "e7d3605034acda54ca13e43aec9e64d65b53de20f75b11b8d694e373012fbe07"
+          },
+          "parches": []
+        },
+        "write-swift": {
+          "origen": "skills/write-swift",
+          "archivos": {
+            "SKILL.md": "16a4b6adb74e338e55e704ce5753ad54d825438b8a63930eeaede9f3c04c9447"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "commit": "5217fb45be2c0b302f29c9cd31cbd3237501c684",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "design-taste-frontend-v1": {
+          "origen": "skills/taste-skill-v1",
+          "archivos": {
+            "SKILL.md": "033d45af1ed23832730642f95f40ab49db7fb5222848489a6c5656144bfc6dae"
+          },
+          "parches": []
+        },
+        "brandkit": {
+          "origen": "skills/brandkit",
+          "archivos": {
+            "SKILL.md": "b0c4837e1bd140ca816ae54948754ddd2ac1e2a4d3619363777a80caf00b2ede"
+          },
+          "parches": []
+        },
+        "high-end-visual-design": {
+          "origen": "skills/soft-skill",
+          "archivos": {
+            "SKILL.md": "e1e32f5e2d420872c6c7332b53d5ff7721946766b78c4822b424c2d512c8fdbc"
+          },
+          "parches": []
+        },
+        "minimalist-ui": {
+          "origen": "skills/minimalist-skill",
+          "archivos": {
+            "SKILL.md": "36bc7328f085405f43b476938e62460fa573bf7e984e949e072bcf014831a44c"
+          },
+          "parches": []
+        },
+        "industrial-brutalist-ui": {
+          "origen": "skills/brutalist-skill",
+          "archivos": {
+            "SKILL.md": "fffbaac8597f07679e9d87145533567658aedba3b5eca6f16a7075a333048caa"
+          },
+          "parches": []
+        },
+        "stitch-design-taste": {
+          "origen": "skills/stitch-skill",
+          "archivos": {
+            "DESIGN.md": "0ab6740c4ebb1966dbceddb823a66d4bf027e960efbd73faca56cbf8370ae2ad",
+            "SKILL.md": "46bdb08fee2dded38b6ba0a051230a502d6ac6e4044afd47592cb40c256028b5"
+          },
+          "parches": []
+        },
+        "gpt-taste": {
+          "origen": "skills/gpt-tasteskill",
+          "archivos": {
+            "SKILL.md": "2e64c269953f2656c21bf5a0fa6b4568e82fe0c72b36e8f84758e090349966a5"
+          },
+          "parches": []
+        },
+        "image-to-code": {
+          "origen": "skills/image-to-code-skill",
+          "archivos": {
+            "SKILL.md": "4c060a8064a8b13380bc2ef3d6e6a1d0b1e316aa093cd9807d0ce9e4eeb037fa"
+          },
+          "parches": []
+        },
+        "imagegen-frontend-web": {
+          "origen": "skills/imagegen-frontend-web",
+          "archivos": {
+            "SKILL.md": "6b5c2256522fdba1e3313eafa3d743b960a7b13ec029d3e6586e04b23327c1f8"
+          },
+          "parches": []
+        },
+        "imagegen-frontend-mobile": {
+          "origen": "skills/imagegen-frontend-mobile",
+          "archivos": {
+            "SKILL.md": "8a33389979f3074fa0926678e266ad2eb9234624472254469fc1ad916b9caa24"
+          },
+          "parches": []
+        },
+        "redesign-existing-projects": {
+          "origen": "skills/redesign-skill",
+          "archivos": {
+            "SKILL.md": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9"
+          },
+          "parches": []
+        },
+        "full-output-enforcement": {
+          "origen": "skills/output-skill",
+          "archivos": {
+            "SKILL.md": "e5bf48b1ae561511439cf71672209a10a88cee0968cc925909ff861dfa0a96a7"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "commit": "12af471f627f866411b4bd785b19646d3672784c",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "design-taste-frontend": {
+          "origen": "skills/taste-skill",
+          "archivos": {
+            "README.md": "5e33fd716b3e1ffaca9340f645d44c193f9b446107fa67f0cce498d33025672c",
+            "SKILL.md": "3435ed963b15a1b6447746ec8844ab2cd38d8d2e8ead3451937f42df01e408c4",
+            "assets/app.css": "16518c3a999fb81b2698137f1f743128c189272e8b1d411c4b02598c6755b67f",
+            "assets/base.css": "aa6ea21613c79e06e06dea3d33200c78590c89b0346bb976ec07947bb45ceafa",
+            "assets/base.js": "8d50416125596b84c0083d5d5ffba09add57db4b06cbf0eedac2d4999b7653bc",
+            "assets/charts.js": "a7e916594729576b7c7e37048a68508a3243fe8fbc9654775cd245232e9f8100",
+            "assets/scenes/stage.css": "b5c587dac45ac6fcc34ae7cb4aa2b3e43797b2ef5d71fd32b48483bda3fca3e0",
+            "assets/scenes/stage.js": "9ce782a94406e6a230c49ca5f87e56aff9d436da3f56416b1659421f8976bc2b",
+            "evals/evals.json": "df0ee2a248cd5445c0e1600eb095dc0d43dd312f5b4bb4316a78471ae0d22a74",
+            "library/app.json": "3678ccbe1e8d05feff6d4f07fa16a0d610aefeea5e697e842a876713ba763cf5",
+            "library/directions.json": "d71e3824af33a92d9e1ca543e17f80baa5b7a30c815df5125cfe3300a14892c1",
+            "library/heroes.json": "98d5e01104412a5fb27936f9c686f3bc0a5f76ce0793186d3de46b982c65b172",
+            "library/motions.json": "51815dd09a823c829897f99ed9ea7dc5c35bd305ac989b8a0632ea6d42a3f08b",
+            "library/palettes.json": "a14be9f45baba848c53436f4aa44eb4f1925ad3e232c5d1dcddf4f565661a525",
+            "library/photos.json": "8fc3b76bca90f44675bd99d99bb4ce95b0756c6c5d4141b7e917d11d90e61520",
+            "library/sections.json": "7c2c8a470a22501176948661f803434db8c542a511281752c717252de80c1ad8",
+            "library/sites.json": "a2bc4d0cff8ebff481f0dfd4879c106d5e1e16cb3122f9ab3702184a5e1f3502",
+            "library/type.json": "dbabf41a468775cf6cc5ea5f3c898b0663293822e167b72b02feba1ef03ebf37",
+            "references/app-screens.md": "55e937ec30de605b53a11310b446f328a3ce7403de24fff008920a00be1a5ed4",
+            "references/colour.md": "6556bcc7eed48b7bc2d0d281c28bf57c1b75e94d7ca0bde49f5d9df8c6a09351",
+            "references/copy.md": "676edbe75d5f3cfd8a793010ea9f730525ae074b231a674c2426264d3398262e",
+            "references/critique.md": "9c2f4392674530b3f02ac529fba53d82ab37b85f401c4c1989fbe98d6217f0b4",
+            "references/imagery.md": "518def6b2c643b295e13e66b09b66f2e3fc1421d3cf6c7dbb1dc749097ad2ad9",
+            "references/layout.md": "40080640719b07737afb94a8868afef87767a1ab4892814d9b6882e2d283453b",
+            "references/motion.md": "79f94d8469898d2bf6186c198ad86ddf691a67c6536eaec36a4ec101285d9a37",
+            "references/research.md": "83433646a352cae588591e05bc0a75fe1deadff55ede8851bc8dd5dd483adfc5",
+            "references/scenes.md": "733ac7258a1a28f2f6ae8205bc36ba66c563594ad0a2e2f829c5eaaba3199a61",
+            "references/tells.md": "8e6de4411c43d3108f832b3f33bb1a2a838148a72b92a176df893b67d99a0da9",
+            "references/type.md": "6353ff1d0ce2f9913628c88fbcb7dad3cc3877e61196848bce99e33a17d20611",
+            "scripts/assets.mjs": "b4b4b99b5634735f5a0b4213169cda5240ee6bbed8ed8042ad1bcf2b6607c1fa",
+            "scripts/draw.mjs": "6c2047d207d2400d3b099956dfe2ac306203b614246e66bc8760212a7f797dbf",
+            "scripts/inspect.mjs": "c0d7366f789b3f594787b37a525d1d7096104a499aac8a97ae04b405046cf02c",
+            "scripts/lib/app-draw.mjs": "aa0802d341d19b53ec14ec21746e428be49a8ec3ed7b30253194105fc18a8df6",
+            "scripts/lib/cdp.mjs": "320fb75c6454a97b88458e5c33559a1188042aa0041bd5eff53455900236c88a",
+            "scripts/lib/inspection-files.mjs": "5635c0d5fbe0f5bd012e58534bcd554ff7440a4e5c724a61a61c476c7f42e918",
+            "scripts/lib/probe.mjs": "a5a17df891e438f55f196d8233601c3c79c873755f442c1ac5c3568de4e6bb48",
+            "scripts/lib/rules.mjs": "8244aa9f53e77a59a562410310414e6b1a0f0cf002ce8f5aa792740b7f0149bf",
+            "scripts/lint.mjs": "05f2fae2f56fc051b539cdbacb43a6f78fbbfb9644bb74aa11be472ff12dcaf5",
+            "scripts/scenes.mjs": "234ec582e2b841457c33033feeeba8535f9ac285495a74d08dc533a1566c90d5"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "d14efff8ed1faa4187f004f79926f428c8074ec7",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "ui-ux-pro-max": {
+          "origen": ".claude/skills/ui-ux-pro-max",
+          "archivos": {
+            "SKILL.md": "ea087c341bfb5b23195c7302027268ede86da802554c18a5c4896a6017b439f9",
+            "data/app-interface.csv": "331e7cf2c0b222d80c566c5f255c63cb339f65bfd02e471a720f28e4864a9f08",
+            "data/catalog-summary.json": "6638da97231c07fb5cef3cd9d3ce483ca7b2f9748980f8c27490eb03968d8894",
+            "data/charts.csv": "4115cf1120680f2cedef0676cb648f30c7ef4699e2a947535d4113e71ed3b12a",
+            "data/colors.csv": "8162429222bce22df62b564085946a30d07cc9722c58d0a3a494bd0d1d00841c",
+            "data/data-provenance.json": "e82fb33ed49375a300e93d9c11ccd1c1493c999e84ee7ee295e527634786e2e0",
+            "data/google-font-licenses.json": "35688523f2955795caa1a47c53b83099e60c1708461476f9cc3a050cf3b0148a",
+            "data/google-fonts.csv": "1c8c3b2ea1faf6a1012da463756def8b3889db33f2226f0343bb4daa80307d03",
+            "data/icons.csv": "50816c6012030178195a16ee481ebf58b47bd985d70e8ec58886cc83f6eddafc",
+            "data/landing.csv": "9a2edd3bb676c2a58f00ade7a062e285222d4297bfd847c8d5b056f0dbbf52d0",
+            "data/motion.csv": "381affe8df8ea1f66fbbda2598827f9f54299107bbe6a1b4e9b68f6b62091ceb",
+            "data/phosphor-icons-upstream.json": "2399325233b277b5c97a80e6a5e8941154f5d057beee4e7613db87c87d700236",
+            "data/products.csv": "42473f75e8dde5987bdf89ce55d8c168091b80a356cae691dd60247d80720b70",
+            "data/react-performance.csv": "3d925802539abac5afeb63ae8aa1960b7229ad271b3a47caed40ab2d97ad0734",
+            "data/stacks/angular.csv": "704be83f2bad30c7e6de01afb113ffa01e0c458762f48b7102f31ba2367b5553",
+            "data/stacks/astro.csv": "2c2f55fadaafc05e04cc321c8194a1a28b656e6757fe2ba316f41b16428299c6",
+            "data/stacks/avalonia.csv": "442fca14675a020683473e7e49f08abb27b9df0765c80efe54aef61f1a4ac258",
+            "data/stacks/flutter.csv": "64dba0ac17349f28bce517a0f5f48c54d9ed2e487ec0c0258303463b382f41a0",
+            "data/stacks/html-tailwind.csv": "d05a581d20af57b8ca0104a6d31d90a07c437d500662a96c3029fc2f9a4678ee",
+            "data/stacks/javafx.csv": "2e819b8d5abdd23ad4dae0991650fdb57af497aabd68b37463aa9c442944c869",
+            "data/stacks/jetpack-compose.csv": "699de218b286948eaec7d15767b6e1350ee299167e49bf476d82e3ff58724e0a",
+            "data/stacks/laravel.csv": "854ea4daa5fc61292d22235ad33b49ba3fe22423c3de8d3cb03758ffed3b59f9",
+            "data/stacks/nextjs.csv": "ecd2c27b2ea0127d203ae726060efcdd7335b5e83f96b99e4f3befbbfeebd5a4",
+            "data/stacks/nuxt-ui.csv": "fce682a338cfcdbf35d318d20e5befbe7b5d81b05abc37f87677a6d9cde84dc6",
+            "data/stacks/nuxtjs.csv": "3d9b54ed2d151bd9c86e9e5609b8a6f88a00c4c52fa601a30af96c49b2c4d176",
+            "data/stacks/react-native.csv": "ba31dd9c0c04da6bc02a74448bf121f9c0728ae5ba3b4d47b487778b0a1135b5",
+            "data/stacks/react.csv": "4dd176a9787e5c6306b5df94158d75955adcdc6edab41ce5286641a5842303c1",
+            "data/stacks/shadcn.csv": "e56cfde5b74907836ac3582a4779d5b7f3d206a702ab81b8669a1b668c3eeb51",
+            "data/stacks/svelte.csv": "f6e379ba802941ba26b01d4ffbe3cd39120f2587659a1d93851c707f66bc13db",
+            "data/stacks/swiftui.csv": "bdd9231ff3ad658f4e7c063e1eb49df2fd09ac8d90631a86df899b39833b9623",
+            "data/stacks/threejs.csv": "155d583b9c64da0df4b6c6cb060c02eab222505e0734d6353da02c9e2b5d982b",
+            "data/stacks/uno.csv": "a0474363e4225b5367214d5675fd3e075f137026f9500f0d04357882ef4f6d48",
+            "data/stacks/uwp.csv": "c409f08c1fbba1f1029f1acaa554e7b4471cc85517a5751c9f2e62465badcd5c",
+            "data/stacks/vue.csv": "b655f1ebb9dff2652d15981f31b1784c8a6d4759efd2815a14f3088257569f95",
+            "data/stacks/winui.csv": "e676dc1c13ee6c205c40b0746f1335150a346c7a49a0616d2545bc3d2c930c85",
+            "data/stacks/wpf.csv": "9781a9950b20333637b30a02e498b7efca21b618a3eeb8665836f3ac6e974da7",
+            "data/styles.csv": "a93a4d9d7025856575d7b7583bda020be9043013432c5af7c58af9dbdfb206b7",
+            "data/typography.csv": "321fc446e89024488ebae96dda93efc4d2307bd8bddb240857ad51364f6782c8",
+            "data/ui-reasoning.csv": "f0774dd741cecdad5eec842034bd6d5e9ea50e9f220a1910069748daa0bb8e9a",
+            "data/ux-guidelines.csv": "ff81ec613f70ba9fc3fcce52dbe4ae35d44b2079dbe6dc066d2d6e38c28facd5",
+            "references/pro-rules.md": "d28442d61c310b49c054a4ea736f89fb3008beebdbbc38c4b3a540b8f7fadf23",
+            "references/quick-reference.md": "0609bc7c89dacb40472465d8fc14257b56b2c43439660fc8d6fa3b8c022e1876",
+            "scripts/core.py": "c3be4b23e7150e6b45095213158cfa3c8ad96502f01dde3f6ffff9de64a4f481",
+            "scripts/design_system.py": "e7d1c94c4b2eada17c5551157668362659ccf9626d34dbd58e68142410f90103",
+            "scripts/reasoning_contract.py": "b8bac1af82aa280d3e06f00aabaeac4337e632996b07fed874e2b6ee6e9c5913",
+            "scripts/search.py": "d54e648fe0ec2932cac66684220cc17be4bd4b4eba1d23d3195d509d398db374",
+            "scripts/tests/fixtures/catalogs/google-api.json": "22d8dc81a7d6827b7e8b64b53e7d184210fb9759e8e294e0d5133c81cc460176",
+            "scripts/tests/fixtures/catalogs/google-catalog.json": "c608ad5c4084ebc50a4bbbfb69ea2456c01fd5519c457e18410fffd250ae948f",
+            "scripts/tests/fixtures/catalogs/google-existing.csv": "4e0761b839dc6b2187a370e82eddc0aed8a7ff10c09e28dd814bb3656dac595b",
+            "scripts/tests/fixtures/catalogs/google-metadata.json": "30bffc29ae348416a2de2f9c6c418e768e4578f136b0f4bac5d2f70124f2e9ba",
+            "scripts/tests/fixtures/catalogs/google-overrides.json": "6243a48a4619986768c4628e2d0c98ff195beba71ba9be5df8f0c52fc6d90c0b",
+            "scripts/tests/fixtures/catalogs/icons-curated.csv": "68362c9a700c13b96f000784a0198c1c7e117a7088a01c85744e44233038fe9d",
+            "scripts/tests/fixtures/catalogs/phosphor-core.json": "ae4d0bb076240824e1b643c2270d1f8cc0952a69502ec1e622b7dedd85b930bb",
+            "scripts/tests/fixtures/catalogs/phosphor-package.json": "500588c757d6de03e3d7e69b27a8b8b1f88ccf6bb0333e4c1e9b0d6a4f112475",
+            "scripts/tests/fixtures/catalogs/phosphor-react-exports.json": "d79f2ee0afdbc2f87776733e145df3538a16a25d7c2fba0056bb48295dad0ded",
+            "scripts/tests/fixtures/catalogs/phosphor-react-package.json": "1c57a1d76bcc0cdd3632d4c18b9c0e79576b4591df39831c9607e5d0eb4f2cec",
+            "scripts/tests/fixtures/relevance-baseline.json": "0df200fc54c1cb97a52d6775e7f501509163cea8f8b73fd7268429bc1f835afe",
+            "scripts/tests/fixtures/relevance-cases.json": "e77d36eebbf6ddc2860946a02cdb659351da6c09f2688f1ed30939a418099646",
+            "scripts/tests/fixtures/relevance-thresholds.json": "1fbe8623fe3e49c8d828139bca9df69043746e488e8bf09d93dfb9cbc31f5cef",
+            "scripts/tests/test_catalog_refresh.py": "3e2ca5d12702318f641ae62d0c14f22a3bcc84d84e79b863c0e947d475604adb",
+            "scripts/tests/test_catalog_summary_line_endings.py": "fa6ff09f0ec2c99013588c77397f5082dddebe8f467e94c5f8378ec9595f4989",
+            "scripts/tests/test_core.py": "3527fe2f4b852f69f07c17ddc0d615d9a6e025c924e45a33985579a94a8d2118",
+            "scripts/tests/test_core_data_quality.py": "3ffc6b4905c9ea26d7ac4527ab154d153584231aee71b2ae4bd017977fa09cc5",
+            "scripts/tests/test_data_contracts.py": "0360d6e10080c0bca214f2b0bbad582ba50702a542ce21013351aca54938df3a",
+            "scripts/tests/test_design_system_mode.py": "95ad2c154349f7021f55a558f8dcdd71df1a24fcf531a4364a8e49526a0865ef",
+            "scripts/tests/test_design_system_stack.py": "83d09ffe8cfbf7b265f362129f061dfe8e5e167ce5db43adaead197cabc9ca38",
+            "scripts/tests/test_native_desktop_stack_freshness.py": "3942845712b9a829323cd3568511483135f2a8c7cd79ccf61679da4b0f624dbb",
+            "scripts/tests/test_relevance_evaluator.py": "2fe56a4d6fe5fff15ff592274b0eeaba925146cefea6c0fa29d8f1b77c9aca1f",
+            "scripts/tests/test_skill_script_paths.py": "7cec24b94be771bc60bc84f8993e614bb16d4047930e1dd3d3bed91628311d44",
+            "scripts/tests/test_style_taxonomy.py": "cd14d0092e8a454d213aa104b53e4e70ba698491fa00fde9fdec5ca8a3d70011",
+            "scripts/tests/test_text_layout_resilience.py": "b51d32ee8a15505b87cb81957fb2d1b385e041e8beb4463c311d236bfd29ebd4",
+            "scripts/tests/test_web_stack_freshness.py": "74897571398585f27e2c35d09d81b0a531c8c774f4a2967e5e1b1d1b05a483d9",
+            "scripts/validate_data.py": "a599aa256049cf30954d1f164721b99e453eb7e4cb8241bcab2d5573e6cf58b8"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "kaankiziltug/logo-design-skill",
+      "commit": "734090317a2155c5bf1ae8bd4cc85c6848a0128f",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "logo-design": {
+          "origen": "skills/logo-design",
+          "archivos": {
+            "SKILL.md": "65ec4bd58732e8cc11e244724e8666de78764b973f6d3b03b233904639cf47c6",
+            "assets/library/catalog.json": "02361c9f9867cdc009893cae669079492d71330e1aaa60dfa4d3b99e65f47457",
+            "assets/library/classifications.json": "92e948074f4c1ac0f745c5b166932edb391cb94742b1f7b35850059c34153b3e",
+            "assets/library/stats.json": "d7d606a6124230e4a7e6fe9443a291bb0e5b8d4d1d00d25656e14ab33c604dd8",
+            "references/color.md": "d1118d401b9ada111ba2402fe55035118780c928fd8be616b0a4940dc0d65299",
+            "references/critique.md": "fcddb803542c21adcc13cfdc0c9f399de377ff931173898a2ed6c114585ced0b",
+            "references/discovery-brief.md": "2a5713518116765d673fe1a753843db24c9849d6a1eb678c6209120d8bb032da",
+            "references/identity-system.md": "1b0c800f5b85cb727d284d51c42c5783934638ee6585c989740c1ead0ffefdfa",
+            "references/library-guide.md": "2d7dbba98115b695607402a4f36152d4d170eba4345030580a0829037025e9aa",
+            "references/mark-types.md": "8b3d994165bff278ba8df93a11544df731d8ee8c01b191c123c79fb996815ec3",
+            "references/presentation-delivery.md": "b004fe0833942e94249e511f3b04de6ccde7e5cb7a1245b9c3ecd2da3abe4244",
+            "references/principles.md": "6c60bb73fb977361f42e80f51f61a58c3f4bd1c69ace56f4fdbcbd743a4b74aa",
+            "references/process.md": "6687f8820eeff041411272c74507bf91084d6198a6835605e76d9c25dd2deb7f",
+            "references/redesign.md": "99ad53dd73d4754ff74e0caef178a924c877901eb6ec4aae4a1a7d3a4c219c07",
+            "references/svg-construction.md": "6ae70e4a5ea4e045a8f9be55a6052b0841d6221dc8fbebd7e39bd86425789afb",
+            "references/testing-checklist.md": "23a8a6a58f0bab759a2dd1d72700aff5c24fa3fc99fd382c3fb5d2603b504bf9",
+            "references/typography.md": "f6373a47336a5bb6a2ab88993868f7ab74ab158b21635ec422ba8fd30541f19c",
+            "references/visual-techniques.md": "af420957e1750e9ca0c01c4d0ad9c8d3458ad53ef3581dac956c14a15f883197",
+            "scripts/build_catalog.py": "cd7964f2e69410b468d2271e3cbda988e9dcb05be1cda2e1055ae4301ff75fd3",
+            "scripts/concept_sheet.py": "b7fe519c276f9f161fb1d8a96e5b320724c15309f7a446fd64722ab5cefeab3b",
+            "scripts/export_variants.py": "2c57ab378db8e4bc323b9627da6628c28a332d73b420632e07eecf7236719046",
+            "scripts/presentation_board.py": "f0939ed40ce800f85ef54c4934d5da78f01987e63a42650c482808cc35d5049c",
+            "scripts/preview_sheet.py": "ef1b6b8dac1d41c7db2b52a43b939ba73bc006a3c27a97845eb1db215e5bcd7b",
+            "scripts/render_png.py": "f6083837ff3edf4c6006ce119d379b3ac0fcd7cd6db07b99b613e0060bd43c21",
+            "scripts/search_library.py": "da5e0b0a87678c92d055ff98721df04d327ca8d24ee03a8efbf56fdaa87c66e1",
+            "scripts/svg_audit.py": "b002c9dd6a26f80a5dfd4a4b48ace172edc4b13229e09e7e17fa4a4d07c0bde0",
+            "scripts/svglib.py": "18cfab3bfde4a94a1bcae27a96bcc7b99fa1320e344ebf8a9cb914347247261c",
+            "templates/brand-guidelines-template.md": "277d8dc564276d1e88edf0ace8e9216191807dbc78a2b7a392d15e5dfeb55cee",
+            "templates/presentation-spec.example.json": "0f881428ab30c527fc03b47f54a9bca8f68ee5d10515c9abee47d97fa69483d7"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "kylezantos/design-motion-principles",
+      "commit": "4a9ca879f24a361f4dca4174fe2da0f67b5ddee3",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "design-motion-principles": {
+          "origen": "skills/design-motion-principles",
+          "archivos": {
+            "SKILL.md": "599f42dbf011df38f3fcaf1497533af447d91cf97443b92439455af103c25b2e",
+            "references/accessibility.md": "1cb43ec768e800e31b8017d90a0ba0c050e3bc94d027cb2cac32c4b4834f1c0d",
+            "references/anti-checklist.md": "f9c5a255a98cc790b7e6190ee8653d4c3ef00ce096f0b93c9d3fe1e9ffb44f32",
+            "references/audit-checklist.md": "42dfa5637766c6868aea875b24b7ceab8a156ea91b79c0cf7233579992b46f4d",
+            "references/creation-gotchas.md": "c9869ee6f62ad53fd726ddef8ae0434259b104469ad2f84019bf6cb48540c07b",
+            "references/demo-shell.html": "a8434c6cd5e3738e3f223478c34c20f3224a380ce9b67525b3dc763431f69fd9",
+            "references/emil-kowalski.md": "aa0e77771a352fcecff8cd64b790ec8ec09a07befdbb2de145bb80d7755bd071",
+            "references/jakub-krehel.md": "7c996dbbe830f7dcebbf76ea46efcd1583ca5265db2f76291de5974674f43b51",
+            "references/jhey-tompkins.md": "dfcc542d5b86275bb24ab72a9feacc973927925c4f50dc2e4918a915df2e5a59",
+            "references/motion-cookbook.md": "1be5919557a16a0a85abfc74a3cca2181f23df16d960a38b8838d211f5408e27",
+            "references/output-format.md": "5c0f0f8adc1ff2a858666af592647e4889347c0a09a2105e7ac49645ae6ffde2",
+            "references/performance.md": "f82512adc9aca4de7b880f26a5ba4b487a839d9e85ead9be0acac80d52aedb2a",
+            "references/report-template.html": "08eaa17fa53ae9cff8554a04d253567ea9c9ec39d405d600ecb436bb2489392b",
+            "workflows/audit.md": "a570e7e112781b949da9ce5c1b3934b7c8a3128cc9cb96198293959e97a64d68",
+            "workflows/create.md": "8560fdf2476eeb783b7cf70feb750f5ab743fa644bb0d486388b762868785282"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "latent-spaces/brag",
+      "commit": "669ab9286aa28b6c3ee30e75f181ee74319d012a",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "brag-slim": {
+          "origen": "skills/brag-slim",
+          "archivos": {
+            "SKILL.md": "42f58aa8a2e0c0c1aa5b072ae77fd2674ccca699f8ecb01e97713e1eb56749af"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "mattpocock/skills",
+      "commit": "5beb35b040e3de97e54fa9e386d7e42d15c295c2",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "grill-me": {
+          "origen": "skills/productivity/grill-me",
+          "archivos": {
+            "SKILL.md": "caaf8b8de1684f96e26b28f3c29189db5c89cce4b73e1c93d86164f66ef88637",
+            "agents/openai.yaml": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
+          },
+          "parches": []
+        },
+        "to-spec": {
+          "origen": "skills/engineering/to-spec",
+          "archivos": {
+            "SKILL.md": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088",
+            "agents/openai.yaml": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "obra/superpowers",
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "brainstorming": {
+          "origen": "skills/brainstorming",
+          "archivos": {
+            "SKILL.md": "61a7ef918652108c76a3fd01e02dd92d39996c6b46d4cb2819cbd03f6c45e46a",
+            "builder-check-prompt.md": "36d51a4723d6f0a3ce5811a0ea3b3a8424f07533947e1355f5d8cb8cce40c55e",
+            "scripts/frame-template.html": "6a8a4e58bd6a44b904e2e3c57de774481d909204597e1498de53f1b2fecc4c4e",
+            "scripts/helper.js": "43c6d69954a46ec34a2a262bcc62a9a7e83e839c739f199cb72646d397c686e3",
+            "scripts/server.cjs": "763abf96510e0b892a1141397b31aa82ef900cf87ed34dde94bc8782baf4a7ca",
+            "scripts/start-server.sh": "a4e5ae84275bcaacd2f84345afeabe59cf7b00ba080e123da7cc1fb226f12847",
+            "scripts/stop-server.sh": "0b5ccbbd57f62d3ed88993f7940b5ee0e5c0fc9b21c550c623da4f6292e47daf",
+            "visual-companion.md": "6ffcb038b53254bd31debaa15e12dcd4ff24bd63d690e0b644ac6396701cf2e2"
+          },
+          "parches": []
+        },
+        "writing-plans": {
+          "origen": "skills/writing-plans",
+          "archivos": {
+            "SKILL.md": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "commit": "e85f3cbc2e4a79bf33b2a12e9bdd9087d414735b",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "customer-research": {
+          "origen": "skills/customer-research",
+          "archivos": {
+            "SKILL.md": "905e65e67268448d88b3b96cf045c6b3615cdd87c1060e129b148a31aa627669",
+            "evals/evals.json": "fc8a15d12e582b55fa52ad27925594ab796ebd6a8ea13fed13722f97e4c51f01",
+            "references/interviews-and-surveys.md": "56adecdc40af1242464937100349fc1a161627394909551720494bc5ee537076",
+            "references/source-guides.md": "7490a8d04f209d4c8c987530e79d0883a6b42027b86a920fc751cf8ea9904892"
+          },
+          "parches": []
+        },
+        "competitor-profiling": {
+          "origen": "skills/competitor-profiling",
+          "archivos": {
+            "SKILL.md": "dd97331ef22b65be8dc75ee36e6ccb154096e2303aac2f7d627f3d002191a8ae",
+            "evals/evals.json": "89e7a8dee7c688adde18f2885ee4b52011faab29255f182c401b19fe78caf264",
+            "references/templates.md": "710d78cb519012eb7e39f63643e22d7b9026c91c569262b44c45535c10717a91",
+            "references/tool-reference.md": "fda64910bc1b3a2bc7df21c15701220849b4b79a58a51f9d3ccae1b7311dbd79"
+          },
+          "parches": []
+        },
+        "pricing": {
+          "origen": "skills/pricing",
+          "archivos": {
+            "SKILL.md": "b0318f64140e60a28d0cf71b1a6bf2aa214b96ef2bc3253c60d16ae480367d25",
+            "evals/evals.json": "ea2ec5a51826311225c806c9ff3f7fc8c4716b154f7b91aba67ab8639bdb8984",
+            "references/pricing-models.md": "2cdb900b74f56a796c0331725e73eff4ecd84f8021b42efbb0a5b4903d1d9b16",
+            "references/pricing-page-teardown.md": "b58a3bffa58ae7c3a475aba33887daaa98e0dc0de57ea948314256b08aa306ad",
+            "references/research-methods.md": "90337058da40c2fcf858bfee9ee8905ad1dc3a5f90d1878f9a8e9ab79193631b",
+            "references/tier-structure.md": "b59910d37cceb74484f28b065963daa60f5c4fb1ffc36a0584d0f3cad11f3e30"
+          },
+          "parches": []
+        },
+        "copywriting": {
+          "origen": "skills/copywriting",
+          "archivos": {
+            "SKILL.md": "13c580c2432a4499e9dfdcf5d553df7aa6589e90cf5bd869fb4fbde5caf9f567",
+            "evals/evals.json": "ccec86052a0edd8646d0e50e63c08e0e971f443d8f6e9178843a1629f79efdb0",
+            "references/ai-tells.md": "b98c3a19b3a75c714d69e80a0076e4c07244b0e833c2ce81ff2631224fb7f7b2",
+            "references/copy-frameworks.md": "352122944bf9e891ceb0e003adce41591d111e9d97057700626249919dfe430d",
+            "references/natural-transitions.md": "9bd61b0de5be2c4de4ce130c68236b4f290b12737823827a458bb2b4c8584683"
+          },
+          "parches": []
+        },
+        "copy-editing": {
+          "origen": "skills/copy-editing",
+          "archivos": {
+            "SKILL.md": "2a072606d9d5662509ea6ef62c65719487dcb68876acab9286bde4d1af5c030f",
+            "evals/evals.json": "cc18c9f51094058759267d465cfcc50da65f248f66b923326781aa642d622ca7",
+            "references/checklist.md": "4cf94c922286223681fc53721fcc65ae7299f1e36e797e7397d369d674580c60",
+            "references/content-refresh.md": "ba73cdf278fe6b552eee27eb1452494f11f9d17ef67d720657e0982f76fb961b",
+            "references/plain-english-alternatives.md": "df4f820d4c63ae8a517c64a243c101658352cd07d002355bf3c97de0a00f3775"
+          },
+          "parches": []
+        },
+        "product-marketing": {
+          "origen": "skills/product-marketing",
+          "archivos": {
+            "SKILL.md": "19ece0fa75c72a5a8b6e90db80f506586f54cc93bae6bffbb1bd2ef4ae7d603c",
+            "evals/evals.json": "0c6599b88f50ec1be91096a36ba6c5a15cf8312151394e3469e5ddb991b19afb",
+            "references/brand-voice.md": "932f3453db2761f03050792e39800150495dab449750b40913a4314ea97e7672"
+          },
+          "parches": []
+        },
+        "launch": {
+          "origen": "skills/launch",
+          "archivos": {
+            "SKILL.md": "30537ad3f4b0429fcc4053cf6bf04bc0dee316b9e5f7e7ec2e74a9bc44a9ead7",
+            "evals/evals.json": "f2ceb01d664e24ea253789a9a686997f5cc33a0fc99f57bf215acdada787322c",
+            "references/shipped-changes.md": "873c79d17d3f428147348a9cc2a5e3d6bb8282cf13fc8a143d539840e8abaa96",
+            "references/site-launch-qa.md": "aac0447d0d518468e86e971f4e781b61ee05e81dada402e2edcef709cc6418ab"
+          },
+          "parches": []
+        },
+        "seo-audit": {
+          "origen": "skills/seo-audit",
+          "archivos": {
+            "SKILL.md": "e0ebb5808787f2ff26b96d7b429423874d9785541cd4ab775629a5cf1137e7a9",
+            "evals/evals.json": "1524e98916ab53abb894fb80827a8d0e1815041adca2ee2023b89916d68f22b2",
+            "references/ai-writing-detection.md": "f1e273f56ce7e2215ff218bf903680ddcec0fd026ab90c3ebfb3439ed0edfaa4",
+            "references/international-seo.md": "0603022cca968acf7889fc224221aa0e70955ba64355bc18b06f7e86b32f45e5",
+            "references/local-seo-pages-and-measurement.md": "20607ef91c4b8b37346f42130a6f51ed4ce64dc2731b6e1328b5b14f16917fe3",
+            "references/local-seo-profile-and-citations.md": "83b1b63eb6083e7aab1f56c4928335ea2a235e837861a9e9e8043b6af162a1f3",
+            "references/local-seo.md": "d2666d9c225bc36f9737ce612894abbe7e263b5974e2db7c1efc50f6010bb376",
+            "references/rankings-push.md": "c21d6d4f9faf7ce5b1dc0f8bd508e7513967492fcd8ed9510a175ce243daf8c8",
+            "references/title-tags.md": "c40b3c6af3600ca15670db8eb81000c7ca6fa25265a6550ccc630f53db3fcf51"
+          },
+          "parches": []
+        },
+        "schema": {
+          "origen": "skills/schema",
+          "archivos": {
+            "SKILL.md": "d298f5d6e1b33b6825f38ecaa05c4d33ba9e45e346b224bd86f9834e46f67a94",
+            "evals/evals.json": "508d08d55abd5f1b71795f07be0330cbd4ab92d20ddfb77964d053962d6f8f16",
+            "references/schema-examples.md": "9b093bce816fac8494c8ccfd588eeb0c00e1308fe99bb46388ff222664ed94be"
+          },
+          "parches": []
+        },
+        "site-architecture": {
+          "origen": "skills/site-architecture",
+          "archivos": {
+            "SKILL.md": "55c0128ac29f628944444f8850b97913517f57131673824ebcad4d5ffb26ddd2",
+            "evals/evals.json": "ed6f68ba0f8355efe26d89eae51d64c381d644cc7e942e80539a660cb52c9b02",
+            "references/mermaid-templates.md": "362190c7d3f419d5f445170f1fb17beecc163937d2068922893b7a69eeb25f0f",
+            "references/navigation-patterns.md": "2efa772709b753e33d5018c007147ca30aaa95a04b04dc0df6227ea5a053078b",
+            "references/platforms-and-migration.md": "391f12c5994e1e577db75cd6044e038a276f14eda1c2ebc7f6a92293fbc59448",
+            "references/site-type-templates.md": "3c3cd7ce5e31c502dc071baf82bb58cb30f5edf4a2fd8ca052fbc8f3777db140"
+          },
+          "parches": []
+        },
+        "aso": {
+          "origen": "skills/aso",
+          "archivos": {
+            "SKILL.md": "681a8e3cb4ffe91bb8d68497726d9a708901c06a2a99e23a92684d53241fc02c",
+            "evals/evals.json": "9b665d9e1eea16e46591ee42790642c396a4e20fd61306ec3171f9083a87b4d0",
+            "references/apple-specs.md": "b2f9d3efc041624dd8f2392cad34533fa5f889a171957eb47000a6a057dcd13a",
+            "references/benchmarks.md": "64b33412338388f8d6b4cafc12a8547afff9d64ca37646a996cf1baecf54043c",
+            "references/google-play-specs.md": "8a47707817aa40684f51ccc16e8b718ca6acaa27e3b1a00d2fdc21dd63b6ad9e",
+            "references/report-template.md": "f67c8827c4600cb1e392c8cad05ed5740f9cd01321fd715a9e851e37ec0047b2",
+            "references/scoring-criteria.md": "e821093e54db5b6f3eb9c932eef57ec47b6e0bb1aad2fe0ae6f524a217713591"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "supabase/agent-skills",
+      "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+      "licencia": "MIT",
+      "fecha": "2026-10-24",
+      "skills": {
+        "supabase": {
+          "origen": "skills/supabase",
+          "archivos": {
+            "CHANGELOG.md": "4b9c9387871d7888f18e9c97a7d5691ea38e333401ccdcb0161d2140cb16b2d8",
+            "SKILL.md": "697e0e949f97621c6fc1784169eb3ccbf673747d6bb8299a52962d3d84d93dc6",
+            "assets/feedback-issue-template.md": "ea211aa174c5a096fe76461f25143b8bc23f3bde3adc9e727cda38218cc8c282",
+            "references/skill-feedback.md": "09ad94c0291735dfc04c92557c8734fa259ec39e1d56bf2bd5c6a6529d838717"
+          },
+          "parches": []
+        },
+        "supabase-postgres-best-practices": {
+          "origen": "skills/supabase-postgres-best-practices",
+          "archivos": {
+            "CHANGELOG.md": "751ad110037c85d400018c9894716a04fa46357ff55c22b1169b280752e19e88",
+            "SKILL.md": "ad65e776f45e761bafc609d3f506c77c1032225aa65e0c4c02f241b8071e5855",
+            "references/_contributing.md": "191e039e7d94764e6073410b513b559f9a594e0fdf0252a30c2a2986df2ab3bc",
+            "references/_sections.md": "c9e992612b422c7122de0b7542ebc2450db283edaab08cfe86c6d657fcccccd5",
+            "references/_template.md": "6299954250f212caabe339d752c3e5313a8e07d1a182a4e4b425baee91df1bd2",
+            "references/advanced-full-text-search.md": "40c2606bbb4c4dce31308f201b24cc7f58c7df05b1d9c6856fe2b888d3b7cf28",
+            "references/advanced-jsonb-indexing.md": "24cacf6a8bc35901dd566d24502ce8e57f810a5c196b897e61d52726e521d106",
+            "references/conn-idle-timeout.md": "630588902c00fcec59a5988cc5d042f76dcf2c923a535abfd8c47dca205eaed5",
+            "references/conn-limits.md": "11b2a67a7c7679cbbc5d807bbb17e69c98484a581d0c8b929c03408f412b81b2",
+            "references/conn-pooling.md": "88cf086bf98ba865d2e9d0579974e1366b14157619d6a93e7da77be91084e4a5",
+            "references/conn-prepared-statements.md": "174e9332fe3dda5c99b2b00159fb1915ae36c00bab3a7882c14e73e4344e946e",
+            "references/data-batch-inserts.md": "531933b82d6a622d0fae29e0ea80be6fe5d78655adf2804c271ea84a1930de37",
+            "references/data-n-plus-one.md": "21a44905e5b16a42741892ec34bb1bfef124d049b140a76934a9acd0f46f5fc2",
+            "references/data-pagination.md": "73c9fa10a3d439bedea0e11b640bd25bf30dd50f0d9006cf85baf7c3151543fa",
+            "references/data-upsert.md": "2612af83b20a2701dde30ef1f8d7efd26b7e9eef84717226b8f038a2d2150ff7",
+            "references/lock-advisory.md": "c88d259dbf81c3771438f59a165f7eab8acd09999dd370bdf807521c73f35aab",
+            "references/lock-deadlock-prevention.md": "09aee46f51d7178c8e55fe056cd5a94a64ba2c122fe418e6900cd99f297b2347",
+            "references/lock-short-transactions.md": "5aa7f61095916986d39644b446cdbcd2bacca7ef698a3bb50b3f82dd60207602",
+            "references/lock-skip-locked.md": "6c45077f430f29cd9cd8f448c94d578e827e7bd023fcdaf717a756acb116fa4b",
+            "references/monitor-explain-analyze.md": "4cb67ffbf8e57f2e5b380b0beb4242528b513723ce314a2c2ffcf083bd4203d7",
+            "references/monitor-pg-stat-statements.md": "89dca99d4e894fcbdcac136be7ad9fbc03d1342904f065c1b198dc9cf495f098",
+            "references/monitor-vacuum-analyze.md": "2892272011710eb49b3f185ec12f15ce9ce4c365792c672f6e2a9c90da426a1a",
+            "references/query-composite-indexes.md": "73e42424e671f0266e74fdb220db3196790f69fb43e2b19c7b9483eb4971b554",
+            "references/query-covering-indexes.md": "daf2a7f0477fb7357b62b5fb5b185b1995a77a186347e45cb780e25e7a7589b6",
+            "references/query-index-types.md": "472a74f22c2df203bd0154999b3a5a0187cca2ab3d9a3978e305bb7c32f1a282",
+            "references/query-missing-indexes.md": "91ad8b0ff4365704b4830a7f077c6f140f7140fd5d3ce5cd0b92b160cf9e25f1",
+            "references/query-partial-indexes.md": "6448982bc8558c6555284958edc331b29239c6a0130e6b4501dd6d4da607a6dd",
+            "references/schema-constraints.md": "90e8efda3e9e81095e642911ad4aae2809d160f29414338fa997253238f510f8",
+            "references/schema-data-types.md": "e01b58c14c7f3f65d8ead580b9a4fcf70b83baaab0f9a5f83c569c9fd113e8c8",
+            "references/schema-foreign-key-indexes.md": "7587713d12a65a212365459b3d39e4717d8a79e4073b10bd62f1054d8192c0dd",
+            "references/schema-lowercase-identifiers.md": "4bc80f70865f2390872591f326c8a6be6456a0aeb5a7e5a2475d7cd9d43059ab",
+            "references/schema-partitioning.md": "541e13fbeaf4bb1485c9059d4c9417dbdb766cf16f4237cd63a04ada7ec45b90",
+            "references/schema-primary-keys.md": "3c8beabef82066f9a0838b926da0885117fd2d9a263aaf84cb5ca9e5f0d400e9",
+            "references/security-privileges.md": "095909274a4fb43df785d7144cf674eeb40284d2d45628f14af4108737b93663",
+            "references/security-rls-basics.md": "e04dd1a3a382aafdaaa73fe9f7976352acdde6e90c2a2470d281b94d4f44b096",
+            "references/security-rls-performance.md": "2e1faeca7d5746e246b1c78f9492fe2a9cfa41c4d7fa1e23c402d58fa18ea014"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "trailofbits/skills",
+      "commit": "196a9073ab10d35bacf111f945e02c00b2c6883a",
+      "licencia": "CC-BY-SA-4.0",
+      "fecha": "2026-10-24",
+      "skills": {
+        "agentic-actions-auditor": {
+          "origen": "plugins/agentic-actions-auditor/skills/agentic-actions-auditor",
+          "archivos": {
+            "SKILL.md": "b2bdb88d559bc37e6c2c8314e28e7a2eb47e7cdd9da51e77da347d3517326dc0",
+            "agents/openai.yaml": "e0e73b657e0414fc844cf000fb3a930e7c801db193a16d19620f764538100072",
+            "assets/trail-of-bits-mark.svg": "4bf74c789b38dcf6ad762c136b6832363d27ae19fbaa9a18ec18d66ecce6ca05",
+            "references/action-profiles.md": "bbfaf6abe69b57e6289948340aa649482378b53f752a25cba92e7d4a740c4324",
+            "references/cross-file-resolution.md": "b7d0d31fa24f1b987953ef0c11dc22ad48e81675b34de65c65ff79a74a3e6084",
+            "references/foundations.md": "722ee7ea1dc06af8fa8cbb6cacb62f3c7c70139c8ed402752dd12c851a195d0e",
+            "references/vector-a-env-var-intermediary.md": "7903992f54409760aae64ddb45bb3c26032223443f746ac6e3d8fd281bda877d",
+            "references/vector-b-direct-expression-injection.md": "be6e5baff68d6770665ce6c7b7995c92dfdec3866b96ea21330c94b340499631",
+            "references/vector-c-cli-data-fetch.md": "f11d2333f2b3800215311047c0b0ad35a1020c79dbb77614ff66a8c1fef16252",
+            "references/vector-d-pr-target-checkout.md": "fc029037bb219aed5e130708eb4911ad235e47f1394e2155b5e40175ddb2d187",
+            "references/vector-e-error-log-injection.md": "2c93623d96f49c4ab70bc2dd92e111b2cfca68ff70aaf579efd86812b0df15a9",
+            "references/vector-f-subshell-expansion.md": "d6ede1d6a7769e1b75faed3dfeba7d212e0115fb9ddb09d39145bf65d062ba7f",
+            "references/vector-g-eval-of-ai-output.md": "b9a47a41dd1470cc469cc030cd6cd6059b35741c78ba9f494c1d18b2fd65b686",
+            "references/vector-h-dangerous-sandbox-configs.md": "892cb478d91c2e155b4084c5cf707bea5045bb4e2a11c7a5a1131b6212690b86",
+            "references/vector-i-wildcard-allowlists.md": "68a4cd774ad829e535a8ec15ee492caefbae8e46f115f345b7f2bf2fecf88f86"
+          },
+          "parches": []
+        },
+        "supply-chain-risk-auditor": {
+          "origen": "plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor",
+          "archivos": {
+            "SKILL.md": "a1254b7f8d3a1731a9a7e1f9cd6c67b59cf84ed6ef7c7fb455db9a14c528ceb4",
+            "agents/openai.yaml": "7d79ce0a77aaa1e2c72939b02b285b13a84d9da85ffb965a9d1489c358cd27ab",
+            "assets/trail-of-bits-mark.svg": "4bf74c789b38dcf6ad762c136b6832363d27ae19fbaa9a18ec18d66ecce6ca05",
+            "scripts/collect.py": "fd75cffad628980a6da521b5d3a40fb5dd16c5bb9ad63a25245e5208d08abff7",
+            "scripts/model.py": "78a20954b76e81216991b57453ceddbdb867035a0d6993b98cfa05a7f8d008d3",
+            "scripts/pyproject.toml": "a79ec30039ce3bc90544b9d833f7edc128232821575736f659d2b2ca0a601f3b",
+            "scripts/render.py": "9d6091645c8a8edf5c50d24bd70ff881efa30b920d93b46ea1775ee2dd328bc7",
+            "scripts/sources.py": "4eb66952dca285b4790d1193b39f240e8015025ee054a215f4c696cbba2478e2",
+            "scripts/test_collect.py": "ea4f25bdab0add75d500b22ba5eb9f993d3695d974cd3f92b418f5cff07e00da",
+            "scripts/test_model.py": "92059fe937c50f1502d71df2ddc4f123e8e2647fc0f4f7b270727ef9a2004f5c",
+            "scripts/test_render.py": "319970fd010d6bf5fbf79b595e8fc918c5e74645b718f495f2479aef3ea8cc16",
+            "scripts/test_sources.py": "5c0a993d747e3ed29972272a18a14dd46b6f897bdfff7e147d0a9e9b4b4b6511",
+            "scripts/uv.lock": "99598cc397a42c945abbc9d839d1c61f1852f414660ce41e2e68bd9cdf664100"
+          },
+          "parches": []
+        },
+        "differential-review": {
+          "origen": "plugins/differential-review/skills/differential-review",
+          "archivos": {
+            "SKILL.md": "f9af6a8193fc1a9f8ca3c54bb8d19095a5f20c9472ca6d014488bbde50b67da0",
+            "adversarial.md": "3cb823f38c6e551cbcf5f72325d2bb219dacdad774072519c31d50d92db19800",
+            "agents/openai.yaml": "0279d56f88dc1a04d4b1941a25fa7672912a3ceb0557b13c38d069908b30ae61",
+            "assets/trail-of-bits-mark.svg": "4bf74c789b38dcf6ad762c136b6832363d27ae19fbaa9a18ec18d66ecce6ca05",
+            "methodology.md": "16b335d24cf2145e3dc4a37f50056550d29db2efa20e6df78fec95ec1e6fb0b4",
+            "patterns.md": "52abb18abbc73502a3d3b2f36a7a035adc1db40fd812d1d5424cf065036a06e9",
+            "reporting.md": "0016876dc6f158e926448bff1b6f634796757c7afe09dff177cfe30250724fc4"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "GoogleChrome/modern-web-guidance",
+      "commit": "65e7edd67e77420eaf02c5df00fdc0521417d809",
+      "licencia": "Apache-2.0",
+      "fecha": "2026-10-24",
+      "skills": {
+        "modern-web-guidance": {
+          "origen": "skills/modern-web-guidance",
+          "archivos": {
+            "SKILL.md": "11be6f07942e9ee38b1e1c2c087dc04854e83a9b37f19c4e1907c3e359988ad9",
+            "guides/accessibility/accessibility.md": "9e8800d35f815bb676926ffbcdf181494fc2736d9d1f3f7171522a30ad7d5040",
+            "guides/accessibility/accessible-error-announcement.md": "a2e0e7b61b47eb9a4bd774c8c5f4cf08e888a67ee99fdb1247c19a378e9fb069",
+            "guides/accessibility/accessible-generated-content.md": "2e5e0dedeebd0c481e945f13bb7162e7983c2dfc66521d265ccbfa039ad4e86f",
+            "guides/accessibility/respect-os-text-scale.md": "c6bc60d7b68cb2723dee1ac1cc6b5801bf2fec1b1957c7751a36e05030e38904",
+            "guides/built-in-ai/language-detection.md": "e293f5a79675e1926b1616bb53c8e4749b3da50b31e3b12d8857e5a14b0a18c6",
+            "guides/built-in-ai/language-model.md": "873ff83dbd016316f317d6ba967c91d76792b2ae4920a2a6ee8764fa53a6448e",
+            "guides/built-in-ai/prompt-api.md": "873ff83dbd016316f317d6ba967c91d76792b2ae4920a2a6ee8764fa53a6448e",
+            "guides/built-in-ai/summarizer.md": "46e81f476bb53d56599b6ad81df30b348d847cc7705754c2916624df62392a0b",
+            "guides/built-in-ai/translator.md": "512b221cdc00b2e60a6e2196c3a48d0c595b91e1ae8de1b5aece4bdaa0d1a20f",
+            "guides/css/animate-to-intrinsic-sizes.md": "08dfdae16f501a2727859b82af4cefc3c68819615ec7033d7bb043478285142a",
+            "guides/css/atrule-support-conditionals.md": "add7e96cdac3e9e653cccf2e4011dd8231cfea7b740df3492abc5210a539da3c",
+            "guides/css/calculate-with-intrinsic-sizes.md": "eb4a401f19510905d9c32826bef85eed44f3e103106419055a3ac8e7c8a98344",
+            "guides/css/child-state-based-styling.md": "1461c9f33a3becfa92d0d694067f5bb60de1e582780e910e79cb6ed7e1f01c85",
+            "guides/css/content-based-styling.md": "e2f89c713bf0959898ff9d3d83f606a69b248abf572da25f47ba68db02aac3e1",
+            "guides/css/css-layout.md": "76c43d7727d02af0da72849f3cf53bcac87c5d1ee27a77b80ab3bf8ccab1eb73",
+            "guides/css/css.md": "1a32fb79887417cb93874ff03d02f2e00deff1e88a531c140bb2c61186aaae79",
+            "guides/css/design-token-reactivity.md": "b01a7c7f3acbe3dac8ecb0e5f46301cc4ca13a6e5cb25d93ca96a59a798fa906",
+            "guides/css/dynamic-sibling-styling.md": "2aeec9f0bc264365b952180594780a3e9e5d8263232791e8220f0d7f7876d712",
+            "guides/css/fluid-scaling.md": "1572129c7e605bef3fdb8aa6f088ed0c04320d6429db5383146cc95f596a8c95",
+            "guides/css/individual-transform-properties.md": "5dea4d563fe07b39b820feda8683fa25bfa7948a1c6d1ce9de417fb050e2d374",
+            "guides/css/overflow-clipping-control.md": "db3cb3c57960e7ce4c170b5719ea877c8fc41c07fe79a730ff7838e18da1ce2e",
+            "guides/css/reduce-style-repetition.md": "08250d9f19b128548e317ea95e63f8ed967916e2ffac99edcb161e3002660814",
+            "guides/css/responsive-design.md": "7ac1ec3450c73f3960f3054713afbe09f09fe407bd82cb2ed1436642734f41e9",
+            "guides/css/selector-atrule-combinations.md": "e26e044839fdf4c62b430438378e27bbac9e91c4527fcb6a4b3d5fa505c11a14",
+            "guides/css/size-aware-styling.md": "18605ef97e5cd22604ce07be958176ad700c17ac7387790ddeff78ddbce1b7b1",
+            "guides/css/style-parent-with-has.md": "1daa831051199af73a360c3812aefed36268e1582740aeef75cbd994f0acef74",
+            "guides/css/usage-aware-component-variations.md": "515b34e7a6f9174fb4a6bbcc6a9af39d1e78d10adecdceb22f56b6b9bc1516d6",
+            "guides/forms/animated-select-picker.md": "9ff4cf469fbed81632ba3678bcd482ddc6f1df7b2f8f25bee18895b3cdea19d1",
+            "guides/forms/autofill-address-form.md": "b9e25b49a7a5447044719daadbed856ab17bf3bcb237ba47457b96d09d6404eb",
+            "guides/forms/autofill-highlight-inputs.md": "090b15e27ac7b7abce654b69805c8c8b7bdf5b76fabcc85678d0495d945e237c",
+            "guides/forms/autofill-payment-form.md": "d5b655b8c6c19bda8dc3eef80806090e4862b8fe94a5ccb3356cfe675b1214e1",
+            "guides/forms/autofill-sign-in-form.md": "67973cdcb14e7f9afc3fc914650269afb33d5abcd6f6b008c369b8d9de47eaa9",
+            "guides/forms/autofill-sign-up-form.md": "9f204c37d119ee9bcb7361a31d4a06dfe2c6c51c0d45855ca78985c4701c9962",
+            "guides/forms/brand-consistent-forms.md": "00129f647f974716f67f81656e0fc0f386ec6aca6af88f66e08cb03326289b4a",
+            "guides/forms/branded-select-styling.md": "28cb5b014385beee0fc93f8aab70d9e8e2ca6420238aaa715a88f27d98015656",
+            "guides/forms/custom-select-picker-layouts.md": "adb3ad656dd5eadce25cf4cf1a0534a366fd166998c8eaff509a5a02cada5f92",
+            "guides/forms/form-fields-automatically-fit-contents.md": "34f5d124e79b3c438a3ae8541e9974186c628f03ece91a588d19506d1865b502",
+            "guides/forms/forms.md": "0bdc321031dd4f5689cb4c4564f703d5e8bd606e140e878f8f8990c81d35e2d4",
+            "guides/forms/ime-safe-enter-submit.md": "fcfdf8aaa9348c0004aaec3c26d3a0fed9ca586d9f3c84d3512643bcfee5fd8a",
+            "guides/forms/required-field-feedback.md": "6e5cab4e43105ba39ad13800d6df434b95c0f8ae163e799f4ef8f38cd59bb69e",
+            "guides/forms/rich-media-picker.md": "864333126e95bec051d46c1c86b70981330460e874cee023a11ee404b022b600",
+            "guides/forms/select-menu-interaction.md": "b588c522099f9015228932cb4673d951f8196ec6f6527990d512a372f4b7e7d5",
+            "guides/forms/slider.md": "3aa3575506d6b2748da4ac94e8231143c6c0141d91cdb1915f7d44adeb062704",
+            "guides/forms/sms-otp-form.md": "ba06156820cbfe71691be62376603b1b53c650010793dd4376b4ac343ae9b027",
+            "guides/forms/switch.md": "9251d982dfae5599c5ceb84787af6bebf341e14ca8ef232cb44c17c5a75d060d",
+            "guides/forms/validate-input-after-interaction.md": "a3699bb30041af3142858c9ec4066932e865410f2777873684ce8ad1a188cc3f",
+            "guides/html/accessible-web-components.md": "352e79a510212b4c1db3b15f1c0c0622d3b9ccd046b5344661e0a4ff49970b10",
+            "guides/html/custom-elements.md": "164a51a2ec0c5ee15595ce12b71a4b326e84e17992d02b4cc34a7fe00b9f59d5",
+            "guides/html/form-associated-custom-elements.md": "ab2c72410333a9298675f2e42fe6e42298cf530b4d5e09995ed9b9677c5b0a98",
+            "guides/html/html.md": "87ca3f2b6535c06f96857ed5ca1b577d8ccaa8168348a10e878c5693d8633621",
+            "guides/html/prerendering-custom-elements.md": "f2ca79f7f06265f8ac0cbdcb63301dc6b844c113a45e2f3f26c0411bcc49c06b",
+            "guides/html/shadow-dom.md": "d1fc2affdc23b2747735b0a0c5d4cdc0539d35e9ae25b8aa35deb9bb457746f6",
+            "guides/html/styling-web-components.md": "4f7091c06baafc5121bcc384e129a7dad9ba705f58c87ae2903dd769d555d8a7",
+            "guides/html/web-components.md": "72e46519872022a3f46a9729fd4c093f6c89368034190efa9560070b235383ce",
+            "guides/js/calculate-event-differentials.md": "d2d4420b3d28f0d53fe8ae49179b1618eb841bef7feea5bb65e36dd3349b643b",
+            "guides/js/capture-location-agnostic-data.md": "70dd37052257e7aeff8de421c8e1c1cef9cf78acd78257389d0aefaca433b711",
+            "guides/js/coordinate-global-events.md": "a5557425015558f1eb57b8dd73685bb79a81a3f3300557e927fdbf06a832effe",
+            "guides/js/format-human-readable-durations.md": "5d992ed7cdaf59abbc596500055006031f6d9ccd4b31c9139781ee7b7baa3502",
+            "guides/js/manage-recurring-intervals.md": "15c6c89c42e26a7f3ae8bfe028a2ffe9d7e9058f0cba6653d78e3e4db4c7484c",
+            "guides/js/model-partial-time-concepts.md": "c851fdc82037b25b589dac335b46104d955f82ee7ee9e810e27dbd2173a1d76c",
+            "guides/js/sequence-distributed-events.md": "32c175717abb111dfbda62eea242d4869290ba55d2a4deae332e6d2703102667",
+            "guides/js/stabilize-reactive-state.md": "7654afde0fe949dd7cc2173dad11def7e4c39701a61f71bd37b5e673a965d97c",
+            "guides/js/support-global-calendar-systems.md": "7f7cdab8bbc247c4755fdde4a649f07871d491d1a2742dca4f592ac6cfce6f3a",
+            "guides/performance/batch-analytics-events.md": "4233400a2e90fdb93ecc5de90a947b561fac0cf16eb1284007ed7c2e23117c72",
+            "guides/performance/break-up-long-tasks.md": "0102bca572c87a8aa55458e01c0ef2ab5befddbef43df3e3762a5bd1e9449f81",
+            "guides/performance/calculate-total-foreground-time.md": "867b01937c2c2734a5165174e712e2d6fcf8f40895e0b8ba752aea4c53654e4d",
+            "guides/performance/conditional-async-dependencies.md": "d8e066a249e463f23812d8375eb18eca241fb70df4adfdba3a49fc89b248abae",
+            "guides/performance/defer-rendering-heavy-content.md": "99f4e9b7b376b7be9c9acd22c04ec66d8bb8b50677a31d212c394d84f74adae9",
+            "guides/performance/defer-work-until-scroll-ends.md": "3e69a3fb9e3e8a748bec61392e013839c690322424ea8e84a42b6e1cf178f758",
+            "guides/performance/deliver-optimized-decorative-images.md": "5537b241966ff8a8e9ce99232ed715d887aad8db72965ca77965a328ebc41ab1",
+            "guides/performance/deprioritize-background-fetches.md": "14836fc6fc94567c2451ef427c11c381a71b1d348ae57f23b4082eceb9773b12",
+            "guides/performance/detect-initial-visibility-state.md": "0b25ee2c2c22ea9de9122ec7dada3374573bc0f91c002ef74129e44eedb2aa8c",
+            "guides/performance/efficient-background-processing.md": "585dc8e70e7f302e8c250407e36505ad5bd47cea8750717887844f7a79ab9f9a",
+            "guides/performance/faster-spa-view-transitions.md": "e1b353e06c9ec52bae90f41150ffa5ce1d3f2f3f18e23141ecde79e550973a97",
+            "guides/performance/flicker-free-client-side-ab-testing.md": "6b12c61733a35960a52c3a16e35d634f991e5ec1e9117f1d41bff8c2caf173db",
+            "guides/performance/full-session-analytics.md": "d0867403f262e8eabd35452a49321b451ea84e6200d236be5cc957168021d172",
+            "guides/performance/identify-heavy-scripts.md": "7b70e9b8e3bcd1cbf142b9242388888888fc922eee9bcad85a01d1a035d70620",
+            "guides/performance/identify-inp-causes.md": "3d0812460b8a3982422cba99b08dcca6adad8407f9b79695aa5b0aa7118e5da2",
+            "guides/performance/improve-next-page-load-performance.md": "64747264bc23cf01e46c542097b2975cf94c2aabc2c878147297b7ea01d07b55",
+            "guides/performance/interaction-paint-timing.md": "65c00b9da9b93482a2bb7f09c165693e655493e846b2fb3de0c806b3773b203f",
+            "guides/performance/interactions-in-complex-layouts.md": "32519cb50656ec3188565cf934826f483c1f1ef3075547dc04414f1908deafc3",
+            "guides/performance/lazy-load-video-and-audio.md": "b794c32132b0a14306d1fff07645a563a89a652ea8887ef06f46203c958ff754",
+            "guides/performance/optimize-image-priority.md": "4f1345b87b2e96b3e97185082cd1f38b8fc06f5a2e98f5c66062aa88ed00bc46",
+            "guides/performance/optimize-preload-priority.md": "5239d1bb2718a2698a5288b069018af1cf40385c2a2d997e7ab9d7b49c892bf1",
+            "guides/performance/optimize-script-priority.md": "a3b6af33195d56febe9ca9490af06e420b0d3c62f37d9cf3594f89233d5ab41a",
+            "guides/performance/out-of-order-html-streaming.md": "e633db020f7f78842f9462ced5a10245d6fd0c2fbdb169f91cc8ff64ba544fa0",
+            "guides/performance/performance.md": "dde3a6e3deec942d87c1711001eb3fd4dde556efa63bf8f4addc85d49c07e406",
+            "guides/performance/resolution-optimized-pseudo-elements.md": "05375d370b54f814e07ce0232f0909ee2a937e03d1a53f7004620dc9e9916fb8",
+            "guides/performance/schedule-tasks-by-priority.md": "3a059a8614821195346ba5e757246866e7467fdf46efb668c2aa455ceaaccdfb",
+            "guides/privacy/privacy.md": "0abfb8bbaa1766cd9a986cdf925b05dda21fd7b0d5cf46d52335572cc481e28d",
+            "guides/pwa/migrate-web-app-origin.md": "a0a5a258251966456a68bb0ca9280c37b691851205bb2b1708895978ef66449e",
+            "guides/security/client-side-encryption.md": "1a086e41d3ebde97688db8ccd1184ca93b7b2d22140fdeb7fd199b7edc357c4a",
+            "guides/security/digital-signatures.md": "70a97e0adc0c6b6edd3633538b31d145b2107eeb263900de4f91c83e272bdca0",
+            "guides/security/local-network-access.md": "2bfd3784fdb9ab6917675cc3df51cb7122b82f4264e45b67589276999d517fa4",
+            "guides/security/passkey-authentication.md": "16ab510e6e94bfc620aada82c9e808afb55e8f455f7f88dd46dd720535dbe93c",
+            "guides/security/passkey-conditional-create.md": "5ae4bde5325a75fb1fb9688d18eb4eb5b10c93ff7624c3bd7615350c1a32cb8a",
+            "guides/security/passkey-management.md": "edec33d4563f21a772e901a14c830bcdac10a7b55d616e58a6ad58a3427b80c0",
+            "guides/security/passkey-reauthentication.md": "ccdeb78dc5e3cb73d8f0f9373c2f7e0aeef9489fd56dfa740859182afff69778",
+            "guides/security/passkey-registration.md": "7b0a9db49be0f651a3fef752dfa1483f9daf64853b7467666c03eedd7fc7607f",
+            "guides/security/passkeys.md": "94e82e3d4bc4c16da83327ac6069d87f47d5054f6fe8030a5d4171960f650e96",
+            "guides/security/quick-sign-ins.md": "1e5ffee08e712d317b87800ce19e12d3b982c198f7891d3843e80f8b04c1a9a8",
+            "guides/security/restrict-outbound-connections.md": "6a98755e2b22e3438c2440e68be2c1a555dc28570ecef6fb40213e7002d05738",
+            "guides/security/sanitize-untrusted-html.md": "e5fe91dd410e4df88c7fb229b132e33407ef412ed26a05894b51cfcd8a4ae5ef",
+            "guides/security/security.md": "ae5a217bfb4c29156ebc220f153ceca0144d29b8560d29c462607c462ac284d2",
+            "guides/security/trusted-types.md": "f4cdc9c2c5b18b4c388824fad60c6b02f23d3d067b2842a099891ac05f52fbf6",
+            "guides/security/validate-origins.md": "26fdd6e817eb891f60750400c574c34a946ba8330c4e2a83820d0f9ee32111f7",
+            "guides/security/verify-email-ownership.md": "215ea066291eddc6c0fcd3846c08596ea85df6761000dac46e0c1a52048fb058",
+            "guides/ui-atoms/carousel-slide-effects.md": "e077587bb6b13881ea129c574386e517689cfa3b2f8a46b7b114ffbee77d7ff1",
+            "guides/ui-atoms/component-specific-light-dark-theme.md": "4076c0a3918b9d59034c03670ac5296dfe36106091d383c47cd1f96f41a248ca",
+            "guides/ui-atoms/icons.md": "5f8db7b23febfd08eb771e52b2cd3bf7d8f3b20f082917895fea37f8860313c3",
+            "guides/ui-atoms/position-aware-tooltips.md": "a3a09224b24b04350c6fbd772c6674450c853817790198c8bbf65709b967fcb6",
+            "guides/ui-atoms/pull-to-reveal.md": "8d4fba7fb086a711a49e11afd22330ec7f019bb4a0f61374805ed20f0dca1f7a",
+            "guides/ui-atoms/responsive-table.md": "8c932c22d531d93e5120251feaa5c79380f5f10ad312f608a7ef2c050e24bf84",
+            "guides/ui-atoms/scroll-position-aware-elements.md": "046c0024a7b3e81d3dd5a16e3095def70dbaf5cae2143ca62b8b97d96b51eb74",
+            "guides/ui-atoms/scroll-progress-indicator.md": "48998e460da7f7183f76dcbe2a786b7150be9dd7fa9ec8d3b96bc02c3c318407",
+            "guides/ui-atoms/scrollability-affordance-hints.md": "3d60b979560d80974eff8ae7b867edc3d00946fa3f4eee219d3edd1091a895d8",
+            "guides/ui-atoms/shrinking-header-on-scroll.md": "b25b6f93e617b4d6296a1ab06a0435ac190accb97480e7d4a729705065acb03b",
+            "guides/ui-atoms/state-aware-sticky-headers.md": "a8dfb4e1d870a556d7ac844785ce18663acb8ccc9513af044ad76fdbd7b9aad2",
+            "guides/ui-atoms/viewport-aware-dropdowns.md": "7cb8431c01f9d66f9e44e3104baed62f8afcf78fdd1f51d452517ac1f1c1729e",
+            "guides/ui-behaviors/2d-panning.md": "b19838c0444e5902e8471f09d6b5b8196a60d5092648a36b0ff7c5759f3d017a",
+            "guides/ui-behaviors/anchor-positioning-tab-underline.md": "c719fec3c5708de70e80a7391b108f5a4c0d27a80d2de3d3d4ba1a657dbcf17f",
+            "guides/ui-behaviors/animate-element-entry-exit.md": "c60ac2a4e43fc13e82092b89540b630e6d713a97b907e566b041a1684167decc",
+            "guides/ui-behaviors/animate-to-from-top-layer.md": "d95be57e5a84bc7df85d0a414688cbc728a81fcfd85f18a292d662dc2279653f",
+            "guides/ui-behaviors/carousel-snap-highlights.md": "6f78b072c85bb75c4b164ef71cf00a86267a0a80a4f1e35c55f81321ea0a75fa",
+            "guides/ui-behaviors/consistent-cross-document-transitions.md": "44d41ffd57747c9195eff4bdead8284cde55fe606a49d4a29268dd7fce8d9f4d",
+            "guides/ui-behaviors/cross-document-transitions.md": "139ebe0cdf97343631b5cc1ab5f4b29a22c65f94f2d6f794e4646dddef1f077b",
+            "guides/ui-behaviors/custom-button-actions.md": "f06d1d08117b2e2a9faff1f610d88b0df8db02b8130fcd407873584bacec20af",
+            "guides/ui-behaviors/declarative-dialog-popover-control.md": "318d005b9142d1c607bee93691927d744fc4983bf11c13d9a043e1c8a141421d",
+            "guides/ui-behaviors/directional-navigation-transitions.md": "503f12b13ef03af4ad1a51f62b2f1bee045679191f38c023ccc7c82e3da3ea44",
+            "guides/ui-behaviors/drag.md": "21a9991a901d23e0fb399c1330634b5eda97de5e5b79595fd33b5248c2bee883",
+            "guides/ui-behaviors/dynamic-sibling-animations.md": "cbe8b5078c2b5450af5fb405ea037a733a8fa0e471c8e4fa4a4123e897cd19d8",
+            "guides/ui-behaviors/group-element-transitions.md": "5f26df1b777a28bd88c1a3794dfb5c4dbc0d6eceb8500efafa0b264ee3932a43",
+            "guides/ui-behaviors/highlight-text-ranges.md": "0af66c1bee36d9b1fa254feca75b7b3d4ca477b4340b1ad95d36fe3a52d3ac16",
+            "guides/ui-behaviors/interactive-content-reveal.md": "6dccf43443e6f1fc7eced7565ced180ce36ac2c0ccc73b4e96a35886179afc68",
+            "guides/ui-behaviors/interest-triggered-action-previews.md": "4e6977dc08972ca1797e8958dcae2fcb5fe07d445b4d4079aca3c05c85b37157",
+            "guides/ui-behaviors/interest-triggered-tooltips.md": "c915d6923e8f3b42c54c60f4d00bd865354637ca7aa9cbef566ebb879708cd87",
+            "guides/ui-behaviors/light-dismiss-a-dialog.md": "63701ee5f5ca0fa516151e90fcc23a3ce263d4984146495b4452d7756cf46259",
+            "guides/ui-behaviors/motion.md": "46fab1dd6e7694c325fffd907a9410939415d8f45d6b774c7533b49678fc5056",
+            "guides/ui-behaviors/move-dom-element-without-losing-state.md": "02ad44c451045d3af6fca7b95b911dc8b00458c6926cee80ad57daeb4f14fce6",
+            "guides/ui-behaviors/parallax-scroll-effects.md": "03fe2706246f44908a899beef8902604402e8d24b12dc68e9edc354531f75386",
+            "guides/ui-behaviors/persistent-top-layer-ui.md": "bb1610227b1098fc30a4ee28adfc1e943a6f2ade9b97ff991aed2ffcef3a27e6",
+            "guides/ui-behaviors/physics-based-easing.md": "b1bbe494a75fdf31e36af25d7f37b7af01250394e2b317c3f0f8b517ef51f040",
+            "guides/ui-behaviors/platform-controls-dismiss-dialog.md": "8dbdbf38a7d6ef02f829a06b708529153e5ce7fc73578db1bab4eb0f2ef3bc51",
+            "guides/ui-behaviors/prevent-page-scroll-under-modal-dialog.md": "33ef136d35c34a4fc1b6ab3e1f64dd523910cb734e3cd0e4790d135b106c5d2c",
+            "guides/ui-behaviors/same-document-transitions.md": "a7ed8055ea00003017cd965588f87921915054a83e35915ac60dee1d89e452a1",
+            "guides/ui-behaviors/scoped-component-transitions.md": "2a8247ec8fc1a6084455225b96adb5255820120d42a8e86a7b264292b24d2654",
+            "guides/ui-behaviors/scroll-completion-effects.md": "9ad4c4826d96e829fc636b080a19e117b71842a2ecad97731aedb99e42e3ff10",
+            "guides/ui-behaviors/scroll-entry-exit-effects.md": "80a7c6b4d46ff01fe8876f9013506074331b6229cef36b00290e0516d2add52b",
+            "guides/ui-behaviors/scroll-snap-realtime-feedback.md": "7e5899c1075dc0514374b1423879ffb206fece99e0a55e76d33678f0b76c2ba9",
+            "guides/ui-behaviors/scroll-snap-state-sync.md": "c422841aaf1a2c24fc02db2aa0e9a69edf68d92dce1de1aa0bcebdc53645f723",
+            "guides/ui-behaviors/scroll-target-on-load.md": "bec608e66898110683dceaeedcdf1cecb16d1dce9495fec4842c5ad016d7c4fe",
+            "guides/ui-behaviors/scrollytelling.md": "84744ca48e5302ef9bd9b674581de8529ede99cead307312f6d15d6a00b50535",
+            "guides/ui-behaviors/search-hidden-content.md": "d0f1c0d1e354a485c076d210f3164c97d7e4db9dc4e1bbd8ce9ca45d667a8734",
+            "guides/ui-behaviors/spatial-navigation.md": "2f534bd5c6470834849851ddc4246ffdcabf70016ed00a499d603e9e138c4811",
+            "guides/ui-behaviors/swipe-to-remove.md": "98dd89f9a44d190bbf4eaa0fc389f218550aae4c1bb68426743d57a59977ff2c",
+            "guides/ui-behaviors/swipe-to-reveal.md": "f151d5dfc79da2bcbe9a65e0e627245e5f00f3d5af62a28a4f606ddcc9efafcc",
+            "guides/ui-components/checkbox.md": "1c848d1fd925318c60b490c2b02cebc44b9942b44169dbd49df492d24d94fb70",
+            "guides/ui-components/dark-mode-toggle.md": "2a99ef825c4a67a75c2b48f8c1e364bdcc59e5ab2ef0345688a8515b44856211",
+            "guides/ui-components/hovercard.md": "9c344b438c57b74c2c22e2c960d22fbf04153899b2823c22f8508c39edfe9f65",
+            "guides/ui-components/navigation-drawer.md": "bb1a7daca4a488e7974cf03d9cfe1764527a587b7bf0cc9ad0ddd6f4df45e5ce",
+            "guides/ui-components/persistent-app-tours.md": "4172723cb60cb4d726111568923f7d7fe66e2009b8a14fd5ffabbc10cc82bbe6",
+            "guides/ui-components/persistent-toast-notifications.md": "68ba2f3e284d181ba5b9ffa17bef8e97efe7368245a2d81fe05bf12dce1c0b3f",
+            "guides/ui-components/progress-ring.md": "287c87487827ece8ccebbc483f74b9c341e0766396e39af8881b0e9c804b59d6",
+            "guides/ui-components/progress.md": "eacf07123fdeb9fe136585a6bef79bfed1e95e1c53106d178a1dea5b4b1fa107",
+            "guides/ui-components/scrollspy.md": "bb394a954cb999f68760b94512bff02b23083ed48ee5723e4c7767136a038f7f",
+            "guides/ui-components/spinner.md": "de2aba67b8d741c4500db4781de4ca08db03cd3c6641c53813addb8bd4c58662",
+            "guides/ui-components/stack-drill-down.md": "c106d112ac828ad4dacace928b7e12ee60bb012af987705c3176f5f475f7d21d",
+            "guides/visual-design/adapt-scrollbar-to-contrast-preferences.md": "afa06625e02f48d7d844edb2ea4b24b022412ce69760e1c9176ff8c6d7dbaed9",
+            "guides/visual-design/apply-webgl-shaders.md": "abc193a8d5985d74ef7bfef6f4602efd077a2ea774a19f5353ef03433a9dd272",
+            "guides/visual-design/browser-ui-theming.md": "46cb774211beac969af4dc953e509b776762508dcd966a57dcccad092e095a07",
+            "guides/visual-design/color.md": "9cfd85abebf2a4644c6bffd59c06d4cffba644829dc716ea04b224974e9c34a9",
+            "guides/visual-design/complex-shapes.md": "dad784ec45a78656fe6eb3f4be32132f50d6517dd25b087ece2b7b9dcaa6de36",
+            "guides/visual-design/contrast-color.md": "e15f15d18ae39a785d8006ed08cba19b53a6e7cf494e8abe5f09d4c0920ef918",
+            "guides/visual-design/customize-scrollbar-color-and-thickness.md": "8b73513c3fedc839dafd4ddb9b0ba15c350deaef739e4b6158008006661a86f7",
+            "guides/visual-design/dark-mode.md": "602f2e0c24d9a95bc784c72c88ddfd86e5b41deb7c3a031e7744b8e2742f2f11",
+            "guides/visual-design/equal-width-text-lines.md": "adefba516761e29335c9db0c7032a2d290565d2d855be1c0240e95d9d6063bc1",
+            "guides/visual-design/export-html-media-from-canvas.md": "ae3fde39889608403f043a2003cd041c5e9dac2ff6ed6e29f172448a54257f5a",
+            "guides/visual-design/expose-canvas-content-to-browser-features.md": "02287a5637341afe6220c137b39b85f5ba90ed6a786e574d1dd1f8e3e91169d2",
+            "guides/visual-design/improve-text-layout-and-legibility.md": "dbcab13d1498b7790694953939db201468034ce67bcb9826f9c9b6536d74a9ae",
+            "guides/visual-design/interactive-content-in-3d-scenes.md": "9961ab344a890c4e9289a418208b06270b0de7c90b56eb2e9c8522eb2d4b01c3",
+            "guides/visual-design/precise-text-alignment.md": "c7061a6c41065d52c26b9ad29d1ec4a48edde43e70af2f97a24252840efa56b4",
+            "guides/visual-design/shaped-cutouts.md": "03ee8ec12f4c0d5da09ac68af344ef39582cd519133b8ea1d461c9903c53bbb0",
+            "guides/visual-design/soft-edge-content-fade.md": "f9a4607b1e34c271afe47085bea7d0d6fdc00a85fa7b93bb123cd4a99286b17b",
+            "guides/visual-design/typography.md": "48882a19247e1ddfe8b90c0b7f1389e2fde05483e45c71919cdf39bc4399d70f",
+            "guides/visual-design/visual-effects.md": "d31952014d77634aaf62dec245991ff92299d61f0de3c96d6548939f418859c1",
+            "guides/visual-design/visually-stable-font-fallbacks.md": "5abff774ec3f29204e47fa64c29923a7ecaf33968ed8df4d644ccccf85f0369e",
+            "guides/visual-design/visually-stable-mixed-fonts.md": "be0e8769f8da79e5ba7758354fbd5ddbda4996fe9240bb25808fbfab1bb36f1e",
+            "guides/visual-design/visually-texture-content.md": "a13ac0070201b345c0db6364823b2aa6704017f5fe0d466f3b308b171710d62c",
+            "guides/wasm/cpp-on-the-web.md": "7d58b682e01e91b425d8df76debd8352179dfec89bd3649e6b04d34a50f917d5",
+            "guides/webmcp/agentic-forms.md": "bd8d046a1bdd0a552655f924533e9106303bd36b988cf160f7484fe21240d3e8",
+            "guides/webmcp/agentic-javascript-tools.md": "1347a7c45f5901ea05e9ced6f29496180b261cdcdb944180697e0aabc9481576",
+            "guides/webmcp/webmcp.md": "0a36a1fb0b91b36fa846932cc7d7d00d6fb1f2c29f36831a8853da4d6cbc6cc1"
+          },
+          "parches": []
+        },
+        "chrome-extensions": {
+          "origen": "skills/chrome-extensions",
+          "archivos": {
+            "SKILL.md": "c67d9e4ba9da93ed0da8b0147235e5890aa24e659548f65b7765c5af0a470c3f",
+            "references/extensions/api-calling.md": "0c34c9b231f3d767b6961de6d1e87c4ca9535a4f6c2ed4dfe60bb48b73626254",
+            "references/extensions/auth-identity.md": "0a79f08a39a1835b7b7b7bf95e05cd33c4e4691efe6b75b1c59057260101fbd0",
+            "references/extensions/content-scripts.md": "9439394dc38f49ba1147cde2508741f16825f8659c2c97925b71abe6af104d6c",
+            "references/extensions/context-menus.md": "c69c6d409e7a1adb00786541f3a857e0770867fb23bb7aa6bb76ed35fffb850b",
+            "references/extensions/csp-sandbox.md": "3169a8f2f636a912212cbd12636a58337b1df07b333ea5818aec6eea50398228",
+            "references/extensions/declarative-net-request.md": "4b986713921da1a1e12dd68da5ee8684e43b8a084f323cced503bcb8dc8b8b03",
+            "references/extensions/devtools.md": "816bd0e240a6814713b59f045461c6c24e54502b302425abe463c34f932babf7",
+            "references/extensions/icons.md": "a996281d5482fa145a7912c92f71fe4eb582a0e91e674f9fef02379aecb0fce3",
+            "references/extensions/media-capture.md": "c6bddb3c51c0b0f36d302e7dfde9558dea5eb5febccda315e911119a6e08cea3",
+            "references/extensions/message-passing.md": "d4c4d84caa6761a5afb31f013ac780c2db157f3a14a23b6c0070730141dbf254",
+            "references/extensions/omnibox.md": "e310ccccc673bb4cb4c4ed42a8eb821af30e271145ee06db79f62649def4bd5c",
+            "references/extensions/permissions.md": "b9d248c90380a31d171429b6bb1c007f897647acb83f83c98e0018260d6ae299",
+            "references/extensions/popup-ui.md": "2a9567e5b431910702542707a09357f2031969238bda7807155dbecb1a317fb4",
+            "references/extensions/prompt-api.md": "f376c73354ec804dc00dc1e14d0fec8f19da79f5d7c141bd5a6b40d6e49e0330",
+            "references/extensions/service-worker.md": "6149ec9e5a1185486ba7157d631a24525b41377d4d2c4af13058ea2f6e2715d1",
+            "references/extensions/side-panel.md": "7e6b68b9aff6532495b8d89af097bb3c0f72b3a329c92a598be3ca50a43ed15c",
+            "references/extensions/storage.md": "208736186cdc606d4d98efe64ea17f1087f13755415360d59035879e7580dde2",
+            "references/extensions/tab-management.md": "f16f568aaa5015985a6fc03c748f2f85ab66284e510ed0e782f637f3ae492622",
+            "references/extensions/user-scripts.md": "9f77cbd366392ad64be07bb566104c79ff6eb0fbc2b3629495376bc7e23cd83d",
+            "references/webstore/chromewebstore-template.md": "52aad75138110ffe1b4d21aa1abe702ad796b7627fbb027a482d939c30b29e1b",
+            "references/webstore/privacy-policy.md": "70dda79e2d5e2d574b10c0121c2f9ea7ab6d644229af570d93c69042f2ef3f98",
+            "references/webstore/review-checklist.md": "5d13e2a60b823f82411ec97c75736aa1395dc387e1354c0c05b52a109c22c45f",
+            "references/webstore/store-listing.md": "394978cc316486da9a35a30344e380bf072db7d25b54f89a9f285d98660fafb0"
+          },
+          "parches": []
+        }
+      }
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "licencia": "MIT (declarada en README; el repo no trae LICENSE)",
+      "fecha": "2026-10-24",
+      "skills": {
+        "web-design-guidelines": {
+          "origen": "skills/web-design-guidelines",
+          "archivos": {
+            "SKILL.md": "12594a4c8aab04fd3681832c3122a9b0221c694a619712ca098bf825a1e7bc1a",
+            "command.md": "d246b026f4f29b5823a9cc857f9edf3d2507002e055e32040cadeaf3b38e0234"
+          },
+          "parches": [
+            {
+              "archivo": "SKILL.md",
+              "porque": "Bajaba sus reglas de raw.githubusercontent.com/vercel-labs/web-interface-guidelines/main en cada uso (instrucciones remotas sin candado). Ahora lee command.md local."
+            },
+            {
+              "archivo": "command.md",
+              "porque": "Agregado: vercel-labs/web-interface-guidelines@434b7f91364665f2f733b310ec54809bf8f37937 (MIT), copiado tal cual."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

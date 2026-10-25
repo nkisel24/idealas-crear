@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+*.log
+# Llaves y secretos: este repo nunca lleva ninguno (las de las pruebas se crean y borran al vuelo).
+*.pem
+*.key
+.env*

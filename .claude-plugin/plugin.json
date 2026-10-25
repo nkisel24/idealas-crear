@@ -1,0 +1,18 @@
+{
+  "name": "idealas",
+  "version": "0.1.0",
+  "description": "El motor de creación de Idealas: /idealas:crear lleva una idea de cero a publicada, fase por fase, con un plan aprobado en cada una.",
+  "author": {
+    "name": "Idealas",
+    "url": "https://idealas.mx"
+  },
+  "homepage": "https://idealas.mx",
+  "repository": "https://github.com/nkisel24/idealas-crear",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": ["idealas", "incubadora", "marca", "design-system", "mvp"],
+  "dependencies": [
+    "claude-security@claude-plugins-official",
+    "playground@claude-plugins-official",
+    "security-guidance@claude-plugins-official"
+  ]
+}

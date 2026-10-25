@@ -1,0 +1,16 @@
+{
+  "name": "idealas",
+  "description": "Plugins de Idealas, la incubadora técnica. Hoy uno: el motor de creación.",
+  "owner": {
+    "name": "Idealas",
+    "url": "https://idealas.mx"
+  },
+  "allowCrossMarketplaceDependenciesOn": ["claude-plugins-official"],
+  "plugins": [
+    {
+      "name": "idealas",
+      "source": "./",
+      "description": "El motor de creación de Idealas (/idealas:crear)."
+    }
+  ]
+}

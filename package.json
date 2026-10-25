@@ -1,0 +1,11 @@
+{
+  "name": "idealas-crear",
+  "private": true,
+  "type": "module",
+  "description": "El motor de creación de Idealas (plugin de Claude Code). Sin dependencias: sólo Node.",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "test": "node --test \"tests/*.test.mjs\"",
+    "verificar": "node scripts/vendor.mjs verificar"
+  }
+}
